@@ -9,7 +9,7 @@ import java.util.ResourceBundle;
 public class ConfigManager {
 
     private static ResourceBundle resourceBundle =
-            ResourceBundle.getBundle("resources.config");
+            ResourceBundle.getBundle("config");
 // класс извлекает информацию из файла config.properties
 
     private ConfigManager() {

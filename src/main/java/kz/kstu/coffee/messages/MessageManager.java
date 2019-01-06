@@ -8,7 +8,7 @@ import java.util.ResourceBundle;
 
 public class MessageManager {
 
-    private static ResourceBundle rb = ResourceBundle.getBundle("resources.messages");
+    private static ResourceBundle rb = ResourceBundle.getBundle("messages");
 // класс извлекает информацию из файла messages. properties
 
     private MessageManager() {

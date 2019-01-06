@@ -3,7 +3,7 @@
 <%@ taglib prefix="fmt" uri="http://java.sun.com/jsp/jstl/fmt"%>
 <fmt:requestEncoding value="UTF-8" />
 <fmt:setLocale value="${userLocale}" />
-<fmt:bundle basename="resources.resources">
+<fmt:bundle basename="resources">
     <div id="column_left">
 
         <form>

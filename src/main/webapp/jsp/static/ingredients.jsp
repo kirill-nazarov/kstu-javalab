@@ -3,7 +3,7 @@
 <%@ taglib prefix="fmt" uri="http://java.sun.com/jsp/jstl/fmt"%>
 <fmt:requestEncoding value="UTF-8" />
 <fmt:setLocale value="${userLocale}" />
-<fmt:bundle basename="resources.resources">
+<fmt:bundle basename="resources">
     <jsp:include page="/jsp//includes/header.jsp" />
     <jsp:include page="/jsp/includes/column_left_home.jsp" />
 
